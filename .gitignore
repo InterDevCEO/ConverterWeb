@@ -1,6 +1,0 @@
-node_modules/
-downloads/
-temp/
-.env
-*.log
-.DS_Store
